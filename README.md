@@ -1,2 +1,2 @@
 # itg-web
-Repo for a git tutorial
+Repo for an `introduction to git` tutorial
